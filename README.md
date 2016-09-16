@@ -1,3 +1,5 @@
-# Pruebas
+### Tarea 16.09.2016
+* CSS3 - PREPROCESADORES SASS
+* JAVASCRIPT - Manejo del DOM.
 
-///
+
