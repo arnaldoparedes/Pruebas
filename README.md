@@ -12,3 +12,5 @@
 * JAVASCRIPT - Manejo del DOM.
 
 
+Referencia css
+https://developer.mozilla.org/es/docs/Web/CSS
