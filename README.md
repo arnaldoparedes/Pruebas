@@ -4,7 +4,7 @@
 * [Literatura : Developer Mozilla CSS3](https://developer.mozilla.org/es/docs/Web/CSS)
 
 * [Curso de CSS Básico desde 0](https://www.youtube.com/playlist?list=PLhSj3UTs2_yU0fGoS1bjpHqky4kCEmTbR)
-21.sep 100%
+- 20.sep 100%
 
 ##### SASS 
 * [Lenguaje SASS](https://es.wikipedia.org/wiki/Sass_(lenguaje_de_hojas_de_estilo))
